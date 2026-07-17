@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_service_description">Allows Women Safety AI to detect the volume-button SOS trigger in the background.</string>
+</resources>

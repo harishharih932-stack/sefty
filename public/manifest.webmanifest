@@ -1,0 +1,14 @@
+{
+  "name": "SafeGuard — Women Safety AI",
+  "short_name": "SafeGuard",
+  "description": "Personal safety PWA with instant SOS, voice & shake triggers, live location, and Telegram alerts.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ef4444",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/favicon.ico", "sizes": "any", "type": "image/x-icon" }
+  ]
+}
